@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchViewStyle">
+        <item name="android:textColor">@color/textColorSecondary</item>
+        <item name="android:textColorHint">@color/textColorSecondary</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:padding">0dp</item>
+        <item name="queryHint">@string/search_phone</item>
+    </style>
+</resources>
